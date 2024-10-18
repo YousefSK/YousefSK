@@ -19,7 +19,8 @@ I am a sophomore electrical engineering student at the University of Illinois at
 
 
 <h2>📜 Resume:</h2>
-
+  - [Check out my professional credentials](https://partner.projectboard.world/isef/project/ebed019---digital-upgrade-of-communication-system-using-sdr)
+ 
 
 <h2> 🤳 Connect with me:</h2>
 
