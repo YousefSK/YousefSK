@@ -7,11 +7,9 @@ I am a sophomore electrical engineering student at the University of Illinois at
 <h2>👨‍💻 Electrical Engineering Projects:</h2>
 
 - <b> Digital Systems Design (SystemVerilog)</b>
-  - [Bit-Serial Logic Operation Processor](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Performance Analysis of Different Binary Adders](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [8-bit 2’s Complement Multiplier](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [16-bit Microprocessor (Subset of LC-3)](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [System-on-Chip with MicroBlaze Processor](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Bit-Serial Logic Operation Processor](https://github.com/YousefSK/Bit-Serial-Logic-Operation-Processor.git)
+  - [Performance Analysis of Different Binary Adders](https://github.com/YousefSK/Performance-Analysis-of-Different-Binary-Adders.git)
+  - [8-bit 2’s Complement Multiplier](https://github.com/YousefSK/8-bit-2-s-Complement-Multiplier.git)
   
 - <b> Research Project </b>
   - [Digital Upgrade to Analog Communication Systems Using Software-Defined Radio Techniques](https://partner.projectboard.world/isef/project/ebed019---digital-upgrade-of-communication-system-using-sdr)
@@ -21,6 +19,11 @@ I am a sophomore electrical engineering student at the University of Illinois at
 <h2>📜 Resume:</h2>
 
 - [Check out my professional credentials](https://github.com/YousefSK/Resume) 
+
+
+<h2>📝 Blog:</h2>
+
+- [Link to my personal blog](https://github.com/YousefSK/Blog.git) 
 
 
 <h2> 🤳 Connect with me:</h2>
