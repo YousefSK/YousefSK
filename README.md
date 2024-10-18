@@ -18,7 +18,7 @@ I am a sophomore electrical engineering student at the University of Illinois at
 
 <h2>📜 Resume:</h2>
 
-- [Check out my professional credentials](https://github.com/YousefSK/Resume) 
+- [Link to my resume](https://github.com/YousefSK/Resume) 
 
 
 <h2>📝 Blog:</h2>
