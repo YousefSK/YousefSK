@@ -1,4 +1,4 @@
-<h1> Yousef Khojah <br/><a href="https://github.com/YousefSK">Professional Portfolio</a>
+<h1> Yousef Khojah <br/><a href="https://github.com/YousefSK">Project Portfolio</a>
 
 <h2>🙋‍♂️ About Me:</h2>
 I am a sophomore electrical engineering student at the University of Illinois at Urbana-Champaign. I am part of the King Abdullah University of Science and Technology (KAUST) Gifted Student Program, an academic scholarship awarded to exceptional Saudi students pursuing STEM majors in the US. Also, I had a research internship at KAUST, where I worked on enhancing analog communication systems using software-defined radio techniques. Later, I participated with the said project at the International Science and Engineering Fair and won the K.Soumyanath special award. These experiences, along with my studies at UIUC, gained me skills in programming, digital systems design, probability, and academic writing. Lastly, I am always looking forward to new experiences and opportunities.
