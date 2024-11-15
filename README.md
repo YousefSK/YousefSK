@@ -10,9 +10,9 @@ I am a sophomore electrical engineering student at the University of Illinois at
   - [Bit-Serial Logic Operation Processor](https://github.com/YousefSK/Bit-Serial-Logic-Operation-Processor.git)
   - [Performance Analysis of Different Binary Adders](https://github.com/YousefSK/Performance-Analysis-of-Different-Binary-Adders.git)
   - [8-bit 2’s Complement Multiplier](https://github.com/YousefSK/8-bit-2-s-Complement-Multiplier.git)
-  - [16-bit Microprocessor, a Subset of LC-3 ISA]()
-  - [Simple System-on-Chip Interface Using MicroBlaze Processor]()
-  - [Text Mode Graphics Controller Through VGA/HDMI Output]()
+  - [16-bit Microprocessor, a Subset of LC-3 ISA](https://github.com/YousefSK/16-bit-Microprocessor-a-Subset-of-LC-3-ISA.git)
+  - [Simple System-on-Chip Interface Using MicroBlaze Processor](https://github.com/YousefSK/Simple-System-on-Chip-Interface-Using-MicroBlaze-Processor.git)
+  - [Text Mode Graphics Controller Through VGA/HDMI Output](https://github.com/YousefSK/Text-Mode-Graphics-Controller-Through-VGA-HDMI-Output.git)
 
 
 
